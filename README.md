@@ -1,1 +1,1 @@
-# sportshub-legal
+# scoreclan-legal
